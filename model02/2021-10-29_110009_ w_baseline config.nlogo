@@ -38,6 +38,10 @@ globals [
 
 
 ;;;;; setup
+;;;;;;;;;;; portions of the setup, setup-gis, load-census-data and make-seeds routines are borrowed from Wilensky & Rand's "Ticket Sales" model
+;;;;;;;;;;; available in the Models Library Sample Models/IABM Textbook/chapter 8, full citation information is included there and licensed
+;;;;;;;;;;; under Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0) https://creativecommons.org/licenses/by-sa/3.0/ all remaining code is my own &
+;;;;;;;;;;; under Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) https://creativecommons.org/licenses/by-nc-sa/4.0/
 
 to setup
 
